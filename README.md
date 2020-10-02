@@ -6,7 +6,7 @@
 # mecab-python3
 
 This is a Python wrapper for the [MeCab][] morphological analyzer for Japanese
-text. It works with Python 3.6 and greater, as well as Python 2.7.
+text. It works with Python 2.7,3.6 and above versions.
 
 **issueを英語で書く必要はありません。**
 
